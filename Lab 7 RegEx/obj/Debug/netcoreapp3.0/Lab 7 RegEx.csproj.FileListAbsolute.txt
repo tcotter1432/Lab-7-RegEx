@@ -1,0 +1,11 @@
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\netcoreapp3.0\Lab 7 RegEx.exe
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\netcoreapp3.0\Lab 7 RegEx.deps.json
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\netcoreapp3.0\Lab 7 RegEx.runtimeconfig.json
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\netcoreapp3.0\Lab 7 RegEx.runtimeconfig.dev.json
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\netcoreapp3.0\Lab 7 RegEx.dll
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\netcoreapp3.0\Lab 7 RegEx.pdb
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\netcoreapp3.0\Lab 7 RegEx.csprojAssemblyReference.cache
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\netcoreapp3.0\Lab 7 RegEx.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\netcoreapp3.0\Lab 7 RegEx.AssemblyInfo.cs
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\netcoreapp3.0\Lab 7 RegEx.dll
+C:\Users\Tristan\Documents\BootCamp\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\netcoreapp3.0\Lab 7 RegEx.pdb
